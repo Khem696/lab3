@@ -6,7 +6,7 @@ int main()
 	int N, count =0;
 	cout<<"Enter the first text: ";
 	cin>> text1;
-	cout<<"Enter the seceond text: ";
+	cout<<"Enter the second text: ";
 	cin>> text2;
 	cout<<"Enter N: "; 
 	cin>> N;
